@@ -1,0 +1,9 @@
+/.vscode/launch.json
+/node_modules/
+/audio/*
+config.gypi
+/src/archive/
+/dist/archive/
+yarn.lock
+/rivet/test*
+.DS_Store
